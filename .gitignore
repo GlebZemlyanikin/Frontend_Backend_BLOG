@@ -1,0 +1,15 @@
+# Node
+**/node_modules/
+**/dist/
+**/.vite/
+**/.next/
+**/coverage/
+
+# Logs
+**/npm-debug.log*
+**/yarn-error.log*
+
+# Env
+**/.env
+**/.env.local
+
